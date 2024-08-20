@@ -2,7 +2,9 @@
 
 - Junior at University of Houston 
 
-- I like to create football apps
+- I Create and work on applications.
+
+- Java / React / Node / Swift / React Native
 
 - pockcrafts@gmail.com - email me if you want to collaborate
   
