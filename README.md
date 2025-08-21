@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Mohammad Bakeer
 
-- Junior at University of Houston 
+- Graduated from University of Houston 
 
 - I Create and work on applications.
 
-- Java / React / Node / Swift / React Native
+- Java / React / Javascript / Golang
 
 - pockcrafts@gmail.com - email me if you want to collaborate
   
